@@ -1,0 +1,1 @@
+﻿const openWeatherKey = 'c52d6f3984e934f43a8278cbbcb8306c';
